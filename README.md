@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on **a project**
 
-- 💬 Ask me about **React JS, Express JS, Node js, MongoDB, Javascript.. or anything [here](https://github.com/salesp07/salesp07/issues)**
+- 💬 Ask me about **React JS, Express JS, Node js, MongoDB, Javascript **
 
 -  👨‍💻 All of my projects are available at [https://github.com/RahulRamachandran978](https://github.com/RahulRamachandran978)
 
