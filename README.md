@@ -9,7 +9,7 @@
 
 <br/>
   
-- 🔭 I’m currently working on **a project**
+- 🔭 I’m currently working on  a Project as a**UI Developer**
 
 - 💬 Ask me about **React JS, Express JS, Node js, MongoDB, Javascript **
 
