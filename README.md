@@ -9,9 +9,9 @@
 
 <br/>
   
-- 🔭 I’m currently working on  a Project as a **UI Developer**
+- 🔭 I’m currently working as a **UI Developer**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP,React JS, Express JS, Node JS, MongoDB, Javascript **
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, React JS, Express JS, Node JS, MongoDB, Javascript **
 
 -  👨‍💻 All of my projects are available at [https://github.com/RahulRamachandran978](https://github.com/RahulRamachandran978)
 
